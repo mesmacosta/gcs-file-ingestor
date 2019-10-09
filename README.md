@@ -92,6 +92,8 @@ python main.py --project-id $PROJECT_ID --src-dir=$SOURCE_FILE_LOCATION create-r
 
 #### 2.1.3 Clean up files created by gcs-file-ingestor
 
+This script uses a label on the GCS created buckets to identify which buckets need to be deleted.
+
 - Virtualenv
 
 ```bash
