@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: gcs-file-ingestor
+Version: 0.0.1
+Summary: Library for ingesting files into Google Cloud Storage buckets
+Home-page: UNKNOWN
+Author: Marcelo Costa
+Author-email: mesmacosta@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: Posix; MacOS X; Windows
+Classifier: Development Status :: 1 - Alpha
+Classifier: Programming Language :: Python :: 3.7

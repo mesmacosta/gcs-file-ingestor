@@ -1,0 +1,12 @@
+README.md
+setup.cfg
+setup.py
+src/gcs_file_ingestor/__init__.py
+src/gcs_file_ingestor/gcs_file_ingestor.py
+src/gcs_file_ingestor/gcs_file_ingestor_cli.py
+src/gcs_file_ingestor/gcs_storage_client_helper.py
+src/gcs_file_ingestor.egg-info/PKG-INFO
+src/gcs_file_ingestor.egg-info/SOURCES.txt
+src/gcs_file_ingestor.egg-info/dependency_links.txt
+src/gcs_file_ingestor.egg-info/requires.txt
+src/gcs_file_ingestor.egg-info/top_level.txt
