@@ -2,6 +2,8 @@
 
 Library for ingesting files into Google Cloud Storage.
 
+The drive and use case to create this library, was when you need to create a lot of files to test some capabilities and integrations that rely on GCS. If you just need to sync files it's better to use gsutil.
+
 The name of the folder used for ingestion, will be converted into the bucket_name.
 It will traverse all children directories. You can either ingest the whole folder or ingest
 a random number of files using the folder as the source. If you pass the random number of files,
